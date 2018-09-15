@@ -1,7 +1,7 @@
 # golang-basic
 强化go语言基础的练习示例
 
-参考：
+部分例子参考：
 https://github.com/mmcgrana/gobyexample
 
 License
